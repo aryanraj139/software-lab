@@ -1,0 +1,7 @@
+name,dept,score,attendance,student_result
+ghishu,CSE,88,95,pass
+yamuna,EE,72,88,pass
+sohum,CSE,91,,pass
+sakina,ME,65,90,pass
+periyar,CSE,92,,fail
+ramesh,EE,29,89,fail
